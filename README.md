@@ -1,6 +1,7 @@
 ```css
 ┌[ovhcpu@]-(~)
-└> @kaisen-network
+└> @kaisen-network 
+ └> Our VPNs: ["low pings", "well protected"]
 ```
  
 
