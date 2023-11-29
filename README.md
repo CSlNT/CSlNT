@@ -1,16 +1,18 @@
-### Hi there 👋
+```css
+┌[ovhcpu@]-(~)
+└> @kaisen-network
+```
+ 
 
-<!--
-**CSlNT/CSlNT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display:block;text-align:left"><img align="left" src="https://user-images.githubusercontent.com/56447720/215329483-0f7dcda1-71a7-495a-9097-2393af297636.png" border="0" style="width:156px;">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ```css
+  ovhcpu@kaisen-network
+  -----------------
+  Name: ovhcpu
+  OS: Vitunix x86_64
+  Languages: ["Python", "C", "Java", "Go", "Bash/Shell", "Web"]
+  Intrests: ["CyberSecurity", "Privacy", "Pentesting"]  
+  Uptime: 21 Years
+  ```
+</div>
