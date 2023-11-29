@@ -17,3 +17,14 @@
   Uptime: 21 Years
   ```
 </div>
+
+<br />
+<p align="center">
+  <samp>
+    $ <a href="https://www.google.com/" target="_blank">website</a> .
+    <a href="https://twitter.com/LouisW3b" target="_blank">twitter</a> .
+    <a href="https://www.instagram.com/louis_x86" target="_blank">instagram</a> .
+    <a href="https://discordapp.com/users/1070262933206077520" target="_blank">discord</a> .
+    <a href="https://www.google.com/" target="_blank">project-</a> $
+  </samp>
+</p>
