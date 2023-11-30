@@ -11,7 +11,7 @@
   ovhcpu@kaisen-network
   -----------------
   Name: ovhcpu
-  OS: Vitunix x86_64
+  OS: Linux x86_64
   Languages: ["Python", "C", "Java", "Go", "Bash/Shell", "Web"]
   Intrests: ["CyberSecurity", "Privacy", "Pentesting"]  
   Uptime: 21 Years
